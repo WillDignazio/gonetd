@@ -1,7 +1,7 @@
 package main
 
 import (
-	"digitalbebop.net/gonet"
+	"github.com/WillDignazio/gonet"
 	"fmt"
 )
 
